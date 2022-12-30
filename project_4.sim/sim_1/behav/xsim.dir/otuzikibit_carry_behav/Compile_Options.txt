@@ -1,0 +1,1 @@
+-wto "4fa172d273484f0f80dfb8163a4903e6" --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "otuzikibit_carry_behav" "xil_defaultlib.otuzikibit_carry" "xil_defaultlib.glbl" -log "elaborate.log" 

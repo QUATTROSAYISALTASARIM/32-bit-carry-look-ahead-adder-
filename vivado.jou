@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Wed Dec 28 11:36:41 2022
+# Process ID: 7844
+# Current directory: C:/Users/user/Desktop/carry look ahedar/32bit carry look ahedar
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent620 C:\Users\user\Desktop\carry look ahedar\32bit carry look ahedar\project_4.xpr
+# Log file: C:/Users/user/Desktop/carry look ahedar/32bit carry look ahedar/vivado.log
+# Journal file: C:/Users/user/Desktop/carry look ahedar/32bit carry look ahedar\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/user/Desktop/carry look ahedar/32bit carry look ahedar/project_4.xpr}
+synth_design -rtl -name rtl_1

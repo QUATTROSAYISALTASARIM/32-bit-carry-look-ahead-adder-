@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Tue Dec 27 23:04:34 2022
+# Process ID: 5152
+# Current directory: C:/Users/user/Desktop/carry look ahedar/32bit carry look ahedar/project_4.sim/sim_1/behav
+# Command line: wbtcv.exe -mode batch -source C:/Users/user/Desktop/carry look ahedar/32bit carry look ahedar/project_4.sim/sim_1/behav/xsim.dir/otuzikibit_carry_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/user/Desktop/carry look ahedar/32bit carry look ahedar/project_4.sim/sim_1/behav/webtalk.log
+# Journal file: C:/Users/user/Desktop/carry look ahedar/32bit carry look ahedar/project_4.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/user/Desktop/carry -notrace
+couldn't read file "C:/Users/user/Desktop/carry": no such file or directory
+INFO: [Common 17-206] Exiting Webtalk at Tue Dec 27 23:04:34 2022...
